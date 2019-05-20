@@ -21,6 +21,7 @@ Once you've completed the code and passed the tests, you have a few options:
 - Send us the `index.js` file as an attachment in your application
 - Send us a link to a Gist on GitHub with the contents of your `index` file
 - **Do not make a pull request to origin**
+- - ** I saw and understand this **
 
 Once we've received your submission, we will send you our own solution to the task for you to review.
 
